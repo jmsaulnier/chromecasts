@@ -19,7 +19,8 @@
     "standard": "*"
   },
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "example": "node examples/player.js"
   },
   "repository": {
     "type": "git",
